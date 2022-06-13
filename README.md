@@ -193,7 +193,7 @@ The code running time for 2017 is 0.21 seconds. And the code running time for 20
       Dim tickerStartingPrices(11) As Single
       Dim tickerEndingPrices(11) As Single
 
-      ''2a) Create a for loop to initialize the tickerVolumes to zero.
+      ''2a)Initialize the tickerVolumes to zero.
       tickerVolumes(tickerIndex) = 0
       
       ''2b) Loop over all the rows in the spreadsheet.
