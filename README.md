@@ -1,4 +1,4 @@
-# VBA_Stock_Analysis_Challenge
+# VBA_Stock_Analysis
 Use VBA script to automate stock analysis
 
 # Stock Analysis with VBA
